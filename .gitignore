@@ -1,0 +1,10 @@
+# Ignore all files with no extensions (builds etc)
+*
+!*.*
+!*/
+
+# other
+.DS_Store
+.vscode
+build.sh
+main.dSYM
